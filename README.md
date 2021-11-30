@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Farhabi Helal
+- 👀 I’m interested in Robotics and Computer Vision.
+- 🌱 I’m currently learning Cybersecurity and plainning to take PenTest+.
+- 💞️ I’m looking to collaborate on cool Robotics projects.
+- 📫 Reach me on farhabi.helal@jp.honda-ri.com
